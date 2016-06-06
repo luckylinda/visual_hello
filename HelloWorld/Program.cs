@@ -12,7 +12,6 @@ namespace HelloWorld
         {
             Console.WriteLine("World of GitHub!");
             Console.WriteLine("World of Linda!");
-            Console.WriteLine("Luna on GitHub");
         }
     }
 }
